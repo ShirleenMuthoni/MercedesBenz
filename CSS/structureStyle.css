@@ -1,0 +1,51 @@
+ody{
+    background-color:blanchedalmond;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+.banner{
+    background-color: rgba(18, 52, 25, 0.2);
+    padding: 12px;
+    text-align: center;
+}
+
+@media screen and (max-width: 700px){
+    .content, .side-bar, img{
+        width: 100%;
+    }
+}
+
+.footer{
+    background-color: rgba(45, 75, 89, 20%);
+    padding: 14px;
+    text-align: center;
+    font-size: 0.6em; 
+}
+body{background-color: blanchedalmond;}
+
+
+body{background-color: teal;}
+
+body{background-color: teal;}
+
+body{background-color: black;}
+        h1{color:rgb(60, 35, 6);}
+        h2{color:rgb(43, 17, 36);}
+        
+
+ body{background-color: slategrey;}
+  h1{
+ text-align: center;
+ }
+
+
+  body{background-color: slategrey;}
