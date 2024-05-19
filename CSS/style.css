@@ -1,26 +1,86 @@
 
-
-body{background-color:blanchedalmond;}
+body{
+    background-color:blanchedalmond;
+    margin: 0%;
+}
 h1{
     text-align: center;
 }
-h2{
+
+
+*{
+    box-sizing: border-box;
+}
+
+.topnav{
+    background-color: rgb(43, 17, 36);
+    overflow: hidden;
+}
+.topnav a{
+    color: azure;
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
+.topnav a:hover{
+    color: rgb(43, 17, 36);
+    background-color: azure;
+    text-decoration: none;
+}
+
+.topnav-right{
+    float: right;
+}
+.banner{
+    background-color: rgba(45, 75, 89, 20%);
+    padding: 12px;
     text-align: center;
 }
 
+@media screen and (max-width: 700px){
+    .content, .side-bar, img{
+        width: 100%;
+    }
+}
+
+.footer{
+    background-color: rgba(45, 75, 89, 20%);
+    padding: 14px;
+    text-align: center;
+    font-size: 0.6em; 
+}
+
 body{background-color: blanchedalmond;}
+
 
 body{background-color: teal;}
 
 body{background-color: teal;}
 
 body{background-color: black;}
-        h1{color:azure;}
-        p{color: cornflowerblue;}
+        h1{color:rgb(60, 35, 6);}
+        h2{color:rgb(5, 49, 21);}
+        
 
  body{background-color: slategrey;}
   h1{
  text-align: center;
+ }
+ input[type=text], input[type=email], input[type=password], select, textarea{
+    padding: 12px;
+    width: 20%;
+    border: 1px solid #2b2b2bd0;
+    border-radius: 1px;
+    font-size: 0.9em;
  }
 
   body{background-color: slategrey;}
