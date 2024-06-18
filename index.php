@@ -1,6 +1,6 @@
-
 <?php include_once ("templates/heading.php");?> 
 <?php include_once ("templates/nav.php");?>
+
 
     <div class="banner">
         <h1>WELCOME TO MERCEDES BENZ &#128525;</h1>
@@ -46,7 +46,7 @@
     as a top-tier luxury car brand, Mercedes-Benz has remained committed to producing cars that combine 
     performance, style, and luxury in equal measure.</br></p>
 
-<?php include_once("templates/footer.php");?>
+    <?php include_once("templates/footer.php");?>
 </body>
 
 </html>
