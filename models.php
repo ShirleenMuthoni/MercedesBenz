@@ -2,7 +2,7 @@
 <?php include_once ("templates/nav.php");?>
 <body>
   
-    <h1>Mercedes-Benz has the following models:</h1> 
+<h1>Mercedes-Benz has the following models:</h1> 
     <ol style="list-style-type:lower-roman;">
         <li>A-Class</li>
         <li>B-Class</li>

@@ -1,12 +1,11 @@
+
 <?php include_once ("templates/heading.php");?> 
 <?php include_once ("templates/nav.php");?>
 
 
     <div class="banner">
         <h1>WELCOME TO MERCEDES BENZ &#128525;</h1>
-    </div>
-      
-
+    </div>   
 
   <!-- Starting a paragraph-->
   <p>Mercedes-Benz is a German automobile manufacturer,
@@ -20,7 +19,7 @@
     in the world.</br>
 
     <br>The pioneers of automobile manufacture towards the end of the 19th century 
-    were Gottlieb Daimler (1834-1900) and Carl Benz (1844 1929) and Wilhem Maybach.</br> 
+    were Gottlieb Daimler (1834-1900) and Carl Benz (1844-1929) and Wilhem Maybach.</br> 
 
     <br>Currently, Mercedes-AMG is the high-performance division of Mercedes-Benz.</br>
     </p>
