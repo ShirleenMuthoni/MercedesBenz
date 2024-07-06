@@ -1,5 +1,5 @@
 <div class="topnav">
-     <a href="./">Home</a> 
+      
      <a href="C-Class.php">C-Class</a> 
      <a href="G-Class.php">G-Class</a>
      <a href="S-Class.php" >S-Class</a>
