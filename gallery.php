@@ -24,6 +24,10 @@
    <!--Mercedes Benz GLE-->
  <p>Mercedes Benz GLE</p>
  <img src="images/MercedesGLE.jpg" alt="Mercedes-Benz GLE" width="25%" />
+
+ <!--Mercedes Benz Maybach-->
+ <p>Mercedes Benz Maybach</p>
+   <img src="images/MercedesMaybach.jpg" alt="Mercedes-Benz Maybach" width="25%" />
    
    <?php include_once("templates/footer.php");?>
 
